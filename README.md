@@ -1,0 +1,2 @@
+# teori
+tugas teori
