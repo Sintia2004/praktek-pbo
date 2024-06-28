@@ -1,0 +1,13 @@
+kasus :
+	- total gaji pegawai diperoleh dari total upah di tambah gaji pokok
+	- gaji pokok di peroleh dari golongan yang di inputkan oleh user dengan ketentuan :
+		golongan 1 : gajipokok 1000000
+		golongan 2 : gajipokok 1500000
+		golongan 3 : gajipokok 2000000
+	- total upah diperoleh dari gaji jam kerja dengan ketentuan jam kerja normal 50000. jika kerja lebih dari
+	  dari 25 jam, kelebihan jam dihitung lembur dengan upah lembur per jam 75000
+	- total gaji adlah hasil penjumlahan gajipokok dengan totalupah
+
+     buatlah program java dengan 2 class (object class dan main class ) untuk mengatasi masalah trsb dengan mengimputkan
+   banyaknya pegawai(atasi jika user mengimputkan angka di bawah 0 atau input selain bilangan bulat), selain
+   itu inputkan juga nama dan nik pegawai
